@@ -21,7 +21,7 @@
   "author": "Alec Hirsch",
   "license": "MIT",
   "dependencies": {
-    "lodash.isempty": "^4.4.0",
+    "lodash.isequal": "^4.4.0",
     "ember-browserify": "^1.1.12"
   }
 }
