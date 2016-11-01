@@ -1,3 +1,3 @@
 module.exports = {
-	name: 'dirty-route'
+	name: 'ember-dirty-route'
 };
