@@ -1,6 +1,3 @@
 module.exports = {
-	name: 'dirty-route',
-	isDevelopingAddon() {
-		return true;
-	}
+	name: 'dirty-route'
 };

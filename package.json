@@ -7,6 +7,9 @@
     "test": "ember test"
   },
   "repository": "https://github.com/alechirsch/ember-dirty-route",
+   "ember-addon": {
+    "configPath": "tests/dummy/config"
+  },
   "engines": {
     "node": ">= 0.10.0"
   },
@@ -19,6 +22,6 @@
   "license": "MIT",
   "dependencies": {
     "lodash.isempty": "^4.4.0",
-    "ember-browserify": "1.1.12"
+    "ember-browserify": "^1.1.12"
   }
 }
