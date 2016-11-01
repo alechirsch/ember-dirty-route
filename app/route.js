@@ -1,4 +1,4 @@
-import DirtyRoute from 'dirty-route/route';
+import DirtyRoute from 'ember-dirty-route/route';
 
 export default DirtyRoute;
 
